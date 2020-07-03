@@ -66,6 +66,9 @@ start_time: 0
 
 # Specify that things in the episodes collection should be output.
 collections:
+  bibliography:
+    output: true
+    permalink: /:path/index.html
   episodes:
     output: true
     permalink: /:path/index.html

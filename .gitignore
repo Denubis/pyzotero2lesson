@@ -1,3 +1,5 @@
+.direnv/
+bin/zotero.json
 *.pyc
 *~
 .DS_Store
